@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thenmozhi</h1>
 <h3 align="center">A passionate Software developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fcoding-geek21&psig=AOvVaw3HASG4Tr2eHOOrRTy6CjBT&ust=1675251594887000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNj32Nvc8fwCFQAAAAAdAAAAABAD">
 
 - 🔭 I’m currently working on **Python**
 
